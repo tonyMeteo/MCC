@@ -1,0 +1,12 @@
+database name : MCCDATA
+test data table name : testdata
+/*CREATE TABLE IF NOT EXISTS testdata (
+  memberkey int(8),
+  airhumidity int(11),
+  airtemperature int(24),
+  soilmoisture int(14),
+  dewpoint int(8),
+  PAR int(8),
+  airquality int(8)
+  
+);*/
